@@ -21,3 +21,4 @@ Arduino:
 Python/Raspberry Pi
 * https://www.instructables.com/Benewake-LiDAR-TFmini-Complete-Guide/
 * teachmemicro for the Serial.serial code
+* see benewake's TFMini repo for the rest of the code
